@@ -1,5 +1,7 @@
 # Backend Deploying with Heroku
 
+*Stolen lovingly from Ian Hollander & then modified for Rack purposes*
+
 ## How To Deploy
 
 Make sure your backend project is in its own repo (separate from your frontend
